@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		045F9AA021C3A8F0001C9F07 /* QCTREGViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A7921C3A8F0001C9F07 /* QCTREGViewModel.m */; };
+		045F9AA121C3A8F0001C9F07 /* GYQBaseBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A7C21C3A8F0001C9F07 /* GYQBaseBarItem.m */; };
+		045F9AA221C3A8F0001C9F07 /* HWNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A7E21C3A8F0001C9F07 /* HWNavigationController.m */; };
+		045F9AA321C3A8F0001C9F07 /* ImageTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A7F21C3A8F0001C9F07 /* ImageTools.m */; };
+		045F9AA421C3A8F0001C9F07 /* UIBarButtonItem+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A8121C3A8F0001C9F07 /* UIBarButtonItem+Extension.m */; };
+		045F9AA521C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A8621C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.m */; };
+		045F9AA621C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A8821C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.m */; };
+		045F9AA721C3A8F0001C9F07 /* QCTBasicInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A8A21C3A8F0001C9F07 /* QCTBasicInformationViewController.m */; };
+		045F9AA821C3A8F0001C9F07 /* QCTDocumentCertificationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A8D21C3A8F0001C9F07 /* QCTDocumentCertificationViewController.m */; };
+		045F9AA921C3A8F0001C9F07 /* WLContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A8E21C3A8F0001C9F07 /* WLContainerViewController.m */; };
+		045F9AAA21C3A8F0001C9F07 /* QCTSettlementCardInformationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9221C3A8F0001C9F07 /* QCTSettlementCardInformationView.m */; };
+		045F9AAB21C3A8F0001C9F07 /* QCTDocumentCertificationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9321C3A8F0001C9F07 /* QCTDocumentCertificationView.m */; };
+		045F9AAC21C3A8F0001C9F07 /* QCTContainTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9621C3A8F0001C9F07 /* QCTContainTableViewCell.m */; };
+		045F9AAD21C3A8F0001C9F07 /* QCTUploadStorePhotosView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9821C3A8F0001C9F07 /* QCTUploadStorePhotosView.m */; };
+		045F9AAE21C3A8F0001C9F07 /* KNmasterRegView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9921C3A8F0001C9F07 /* KNmasterRegView.m */; };
+		045F9AAF21C3A8F0001C9F07 /* KNTopButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9E21C3A8F0001C9F07 /* KNTopButton.m */; };
+		045F9AB021C3A8F0001C9F07 /* TopButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9A9F21C3A8F0001C9F07 /* TopButtonView.m */; };
+		045F9AB421C3AAFC001C9F07 /* UIConsts.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9AB221C3AAFB001C9F07 /* UIConsts.m */; };
+		045F9AB821C3ABEC001C9F07 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9AB721C3ABEC001C9F07 /* UIView+Frame.m */; };
+		045F9ABC21C3B40E001C9F07 /* DY_Common.m in Sources */ = {isa = PBXBuildFile; fileRef = 045F9ABB21C3B40E001C9F07 /* DY_Common.m */; };
 		04AFF90721C3A4F0008B39F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AFF90621C3A4F0008B39F0 /* AppDelegate.m */; };
 		04AFF90A21C3A4F0008B39F0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AFF90921C3A4F0008B39F0 /* ViewController.m */; };
 		04AFF90D21C3A4F0008B39F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04AFF90B21C3A4F0008B39F0 /* Main.storyboard */; };
@@ -15,6 +35,7 @@
 		04AFF91521C3A4F2008B39F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AFF91421C3A4F2008B39F0 /* main.m */; };
 		04AFF91F21C3A4F2008B39F0 /* KNSegmentedViewControllersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AFF91E21C3A4F2008B39F0 /* KNSegmentedViewControllersTests.m */; };
 		04AFF92A21C3A4F2008B39F0 /* KNSegmentedViewControllersUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AFF92921C3A4F2008B39F0 /* KNSegmentedViewControllersUITests.m */; };
+		D9935C53268E72C78492EBAE /* libPods-KNSegmentedViewControllers.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0FFEDE58D2FA096E89ED47EB /* libPods-KNSegmentedViewControllers.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +56,48 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		045F9A7821C3A8F0001C9F07 /* QCTREGViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTREGViewModel.h; sourceTree = "<group>"; };
+		045F9A7921C3A8F0001C9F07 /* QCTREGViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTREGViewModel.m; sourceTree = "<group>"; };
+		045F9A7B21C3A8F0001C9F07 /* ImageTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageTools.h; sourceTree = "<group>"; };
+		045F9A7C21C3A8F0001C9F07 /* GYQBaseBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GYQBaseBarItem.m; sourceTree = "<group>"; };
+		045F9A7D21C3A8F0001C9F07 /* UIBarButtonItem+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+Extension.h"; sourceTree = "<group>"; };
+		045F9A7E21C3A8F0001C9F07 /* HWNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HWNavigationController.m; sourceTree = "<group>"; };
+		045F9A7F21C3A8F0001C9F07 /* ImageTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageTools.m; sourceTree = "<group>"; };
+		045F9A8021C3A8F0001C9F07 /* HWNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HWNavigationController.h; sourceTree = "<group>"; };
+		045F9A8121C3A8F0001C9F07 /* UIBarButtonItem+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+Extension.m"; sourceTree = "<group>"; };
+		045F9A8221C3A8F0001C9F07 /* GYQBaseBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GYQBaseBarItem.h; sourceTree = "<group>"; };
+		045F9A8421C3A8F0001C9F07 /* WLContainerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLContainerViewController.h; sourceTree = "<group>"; };
+		045F9A8621C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTUploadStorePhotosViewController.m; sourceTree = "<group>"; };
+		045F9A8721C3A8F0001C9F07 /* QCTBasicInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTBasicInformationViewController.h; sourceTree = "<group>"; };
+		045F9A8821C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTSettlementCardInformationViewController.m; sourceTree = "<group>"; };
+		045F9A8921C3A8F0001C9F07 /* QCTDocumentCertificationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTDocumentCertificationViewController.h; sourceTree = "<group>"; };
+		045F9A8A21C3A8F0001C9F07 /* QCTBasicInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTBasicInformationViewController.m; sourceTree = "<group>"; };
+		045F9A8B21C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTUploadStorePhotosViewController.h; sourceTree = "<group>"; };
+		045F9A8C21C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTSettlementCardInformationViewController.h; sourceTree = "<group>"; };
+		045F9A8D21C3A8F0001C9F07 /* QCTDocumentCertificationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTDocumentCertificationViewController.m; sourceTree = "<group>"; };
+		045F9A8E21C3A8F0001C9F07 /* WLContainerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLContainerViewController.m; sourceTree = "<group>"; };
+		045F9A9021C3A8F0001C9F07 /* KNmasterRegView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNmasterRegView.h; sourceTree = "<group>"; };
+		045F9A9121C3A8F0001C9F07 /* QCTUploadStorePhotosView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTUploadStorePhotosView.h; sourceTree = "<group>"; };
+		045F9A9221C3A8F0001C9F07 /* QCTSettlementCardInformationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTSettlementCardInformationView.m; sourceTree = "<group>"; };
+		045F9A9321C3A8F0001C9F07 /* QCTDocumentCertificationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTDocumentCertificationView.m; sourceTree = "<group>"; };
+		045F9A9521C3A8F0001C9F07 /* QCTContainTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTContainTableViewCell.h; sourceTree = "<group>"; };
+		045F9A9621C3A8F0001C9F07 /* QCTContainTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTContainTableViewCell.m; sourceTree = "<group>"; };
+		045F9A9721C3A8F0001C9F07 /* QCTSettlementCardInformationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTSettlementCardInformationView.h; sourceTree = "<group>"; };
+		045F9A9821C3A8F0001C9F07 /* QCTUploadStorePhotosView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QCTUploadStorePhotosView.m; sourceTree = "<group>"; };
+		045F9A9921C3A8F0001C9F07 /* KNmasterRegView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNmasterRegView.m; sourceTree = "<group>"; };
+		045F9A9A21C3A8F0001C9F07 /* QCTDocumentCertificationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QCTDocumentCertificationView.h; sourceTree = "<group>"; };
+		045F9A9C21C3A8F0001C9F07 /* KNTopButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNTopButton.h; sourceTree = "<group>"; };
+		045F9A9D21C3A8F0001C9F07 /* TopButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopButtonView.h; sourceTree = "<group>"; };
+		045F9A9E21C3A8F0001C9F07 /* KNTopButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNTopButton.m; sourceTree = "<group>"; };
+		045F9A9F21C3A8F0001C9F07 /* TopButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TopButtonView.m; sourceTree = "<group>"; };
+		045F9AB221C3AAFB001C9F07 /* UIConsts.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIConsts.m; sourceTree = "<group>"; };
+		045F9AB321C3AAFB001C9F07 /* UIConsts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIConsts.h; sourceTree = "<group>"; };
+		045F9AB521C3AB82001C9F07 /* Single.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Single.h; sourceTree = "<group>"; };
+		045F9AB621C3ABEC001C9F07 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		045F9AB721C3ABEC001C9F07 /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		045F9AB921C3ADB8001C9F07 /* KNSegmentedViewControllers.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KNSegmentedViewControllers.pch; sourceTree = "<group>"; };
+		045F9ABA21C3B40E001C9F07 /* DY_Common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DY_Common.h; sourceTree = "<group>"; };
+		045F9ABB21C3B40E001C9F07 /* DY_Common.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DY_Common.m; sourceTree = "<group>"; };
 		04AFF90221C3A4EF008B39F0 /* KNSegmentedViewControllers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KNSegmentedViewControllers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04AFF90521C3A4EF008B39F0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		04AFF90621C3A4F0008B39F0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +114,9 @@
 		04AFF92521C3A4F2008B39F0 /* KNSegmentedViewControllersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KNSegmentedViewControllersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04AFF92921C3A4F2008B39F0 /* KNSegmentedViewControllersUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KNSegmentedViewControllersUITests.m; sourceTree = "<group>"; };
 		04AFF92B21C3A4F2008B39F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FFEDE58D2FA096E89ED47EB /* libPods-KNSegmentedViewControllers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KNSegmentedViewControllers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2649B96BAAA5EB68BF237A72 /* Pods-KNSegmentedViewControllers.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KNSegmentedViewControllers.release.xcconfig"; path = "Pods/Target Support Files/Pods-KNSegmentedViewControllers/Pods-KNSegmentedViewControllers.release.xcconfig"; sourceTree = "<group>"; };
+		273BBB3A0E7E7D1C9F2FD235 /* Pods-KNSegmentedViewControllers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KNSegmentedViewControllers.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KNSegmentedViewControllers/Pods-KNSegmentedViewControllers.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +124,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9935C53268E72C78492EBAE /* libPods-KNSegmentedViewControllers.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +145,117 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		045F9A7621C3A8F0001C9F07 /* regNA */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A7721C3A8F0001C9F07 /* ViewModel */,
+				045F9A7A21C3A8F0001C9F07 /* na */,
+				045F9A8321C3A8F0001C9F07 /* vc */,
+				045F9A8F21C3A8F0001C9F07 /* view */,
+				045F9A9B21C3A8F0001C9F07 /* TopButtonView */,
+			);
+			path = regNA;
+			sourceTree = "<group>";
+		};
+		045F9A7721C3A8F0001C9F07 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A7821C3A8F0001C9F07 /* QCTREGViewModel.h */,
+				045F9A7921C3A8F0001C9F07 /* QCTREGViewModel.m */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		045F9A7A21C3A8F0001C9F07 /* na */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A7B21C3A8F0001C9F07 /* ImageTools.h */,
+				045F9A7C21C3A8F0001C9F07 /* GYQBaseBarItem.m */,
+				045F9A7D21C3A8F0001C9F07 /* UIBarButtonItem+Extension.h */,
+				045F9A7E21C3A8F0001C9F07 /* HWNavigationController.m */,
+				045F9A7F21C3A8F0001C9F07 /* ImageTools.m */,
+				045F9A8021C3A8F0001C9F07 /* HWNavigationController.h */,
+				045F9A8121C3A8F0001C9F07 /* UIBarButtonItem+Extension.m */,
+				045F9A8221C3A8F0001C9F07 /* GYQBaseBarItem.h */,
+			);
+			path = na;
+			sourceTree = "<group>";
+		};
+		045F9A8321C3A8F0001C9F07 /* vc */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A8421C3A8F0001C9F07 /* WLContainerViewController.h */,
+				045F9A8521C3A8F0001C9F07 /* regStepVC */,
+				045F9A8E21C3A8F0001C9F07 /* WLContainerViewController.m */,
+			);
+			path = vc;
+			sourceTree = "<group>";
+		};
+		045F9A8521C3A8F0001C9F07 /* regStepVC */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A8621C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.m */,
+				045F9A8721C3A8F0001C9F07 /* QCTBasicInformationViewController.h */,
+				045F9A8821C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.m */,
+				045F9A8921C3A8F0001C9F07 /* QCTDocumentCertificationViewController.h */,
+				045F9A8A21C3A8F0001C9F07 /* QCTBasicInformationViewController.m */,
+				045F9A8B21C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.h */,
+				045F9A8C21C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.h */,
+				045F9A8D21C3A8F0001C9F07 /* QCTDocumentCertificationViewController.m */,
+			);
+			path = regStepVC;
+			sourceTree = "<group>";
+		};
+		045F9A8F21C3A8F0001C9F07 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A9021C3A8F0001C9F07 /* KNmasterRegView.h */,
+				045F9A9121C3A8F0001C9F07 /* QCTUploadStorePhotosView.h */,
+				045F9A9221C3A8F0001C9F07 /* QCTSettlementCardInformationView.m */,
+				045F9A9321C3A8F0001C9F07 /* QCTDocumentCertificationView.m */,
+				045F9A9421C3A8F0001C9F07 /* cell */,
+				045F9A9721C3A8F0001C9F07 /* QCTSettlementCardInformationView.h */,
+				045F9A9821C3A8F0001C9F07 /* QCTUploadStorePhotosView.m */,
+				045F9A9921C3A8F0001C9F07 /* KNmasterRegView.m */,
+				045F9A9A21C3A8F0001C9F07 /* QCTDocumentCertificationView.h */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		045F9A9421C3A8F0001C9F07 /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A9521C3A8F0001C9F07 /* QCTContainTableViewCell.h */,
+				045F9A9621C3A8F0001C9F07 /* QCTContainTableViewCell.m */,
+			);
+			path = cell;
+			sourceTree = "<group>";
+		};
+		045F9A9B21C3A8F0001C9F07 /* TopButtonView */ = {
+			isa = PBXGroup;
+			children = (
+				045F9A9C21C3A8F0001C9F07 /* KNTopButton.h */,
+				045F9A9D21C3A8F0001C9F07 /* TopButtonView.h */,
+				045F9A9E21C3A8F0001C9F07 /* KNTopButton.m */,
+				045F9A9F21C3A8F0001C9F07 /* TopButtonView.m */,
+			);
+			path = TopButtonView;
+			sourceTree = "<group>";
+		};
+		045F9AB121C3AAEC001C9F07 /* UIConsts */ = {
+			isa = PBXGroup;
+			children = (
+				045F9AB521C3AB82001C9F07 /* Single.h */,
+				045F9AB321C3AAFB001C9F07 /* UIConsts.h */,
+				045F9ABA21C3B40E001C9F07 /* DY_Common.h */,
+				045F9ABB21C3B40E001C9F07 /* DY_Common.m */,
+				045F9AB621C3ABEC001C9F07 /* UIView+Frame.h */,
+				045F9AB721C3ABEC001C9F07 /* UIView+Frame.m */,
+				045F9AB221C3AAFB001C9F07 /* UIConsts.m */,
+			);
+			path = UIConsts;
+			sourceTree = "<group>";
+		};
 		04AFF8F921C3A4EF008B39F0 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +263,8 @@
 				04AFF91D21C3A4F2008B39F0 /* KNSegmentedViewControllersTests */,
 				04AFF92821C3A4F2008B39F0 /* KNSegmentedViewControllersUITests */,
 				04AFF90321C3A4EF008B39F0 /* Products */,
+				A3D62766E1309F2A3A946F6B /* Pods */,
+				5FA1EBB22DB8516141F537D6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,6 +281,8 @@
 		04AFF90421C3A4EF008B39F0 /* KNSegmentedViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				045F9AB121C3AAEC001C9F07 /* UIConsts */,
+				045F9A7621C3A8F0001C9F07 /* regNA */,
 				04AFF90521C3A4EF008B39F0 /* AppDelegate.h */,
 				04AFF90621C3A4F0008B39F0 /* AppDelegate.m */,
 				04AFF90821C3A4F0008B39F0 /* ViewController.h */,
@@ -109,6 +291,7 @@
 				04AFF90E21C3A4F2008B39F0 /* Assets.xcassets */,
 				04AFF91021C3A4F2008B39F0 /* LaunchScreen.storyboard */,
 				04AFF91321C3A4F2008B39F0 /* Info.plist */,
+				045F9AB921C3ADB8001C9F07 /* KNSegmentedViewControllers.pch */,
 				04AFF91421C3A4F2008B39F0 /* main.m */,
 			);
 			path = KNSegmentedViewControllers;
@@ -132,6 +315,23 @@
 			path = KNSegmentedViewControllersUITests;
 			sourceTree = "<group>";
 		};
+		5FA1EBB22DB8516141F537D6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0FFEDE58D2FA096E89ED47EB /* libPods-KNSegmentedViewControllers.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A3D62766E1309F2A3A946F6B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				273BBB3A0E7E7D1C9F2FD235 /* Pods-KNSegmentedViewControllers.debug.xcconfig */,
+				2649B96BAAA5EB68BF237A72 /* Pods-KNSegmentedViewControllers.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,6 +339,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04AFF92E21C3A4F2008B39F0 /* Build configuration list for PBXNativeTarget "KNSegmentedViewControllers" */;
 			buildPhases = (
+				702ACEFB7D49D0373EB0211F /* [CP] Check Pods Manifest.lock */,
 				04AFF8FE21C3A4EF008B39F0 /* Sources */,
 				04AFF8FF21C3A4EF008B39F0 /* Frameworks */,
 				04AFF90021C3A4EF008B39F0 /* Resources */,
@@ -257,14 +458,59 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		702ACEFB7D49D0373EB0211F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-KNSegmentedViewControllers-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		04AFF8FE21C3A4EF008B39F0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				045F9AAD21C3A8F0001C9F07 /* QCTUploadStorePhotosView.m in Sources */,
+				045F9AA921C3A8F0001C9F07 /* WLContainerViewController.m in Sources */,
+				045F9AA321C3A8F0001C9F07 /* ImageTools.m in Sources */,
+				045F9AAB21C3A8F0001C9F07 /* QCTDocumentCertificationView.m in Sources */,
+				045F9AB021C3A8F0001C9F07 /* TopButtonView.m in Sources */,
+				045F9ABC21C3B40E001C9F07 /* DY_Common.m in Sources */,
+				045F9AAE21C3A8F0001C9F07 /* KNmasterRegView.m in Sources */,
+				045F9AA721C3A8F0001C9F07 /* QCTBasicInformationViewController.m in Sources */,
+				045F9AA621C3A8F0001C9F07 /* QCTSettlementCardInformationViewController.m in Sources */,
 				04AFF90A21C3A4F0008B39F0 /* ViewController.m in Sources */,
+				045F9AAF21C3A8F0001C9F07 /* KNTopButton.m in Sources */,
+				045F9AB821C3ABEC001C9F07 /* UIView+Frame.m in Sources */,
 				04AFF91521C3A4F2008B39F0 /* main.m in Sources */,
+				045F9AA821C3A8F0001C9F07 /* QCTDocumentCertificationViewController.m in Sources */,
+				045F9AA121C3A8F0001C9F07 /* GYQBaseBarItem.m in Sources */,
+				045F9AB421C3AAFC001C9F07 /* UIConsts.m in Sources */,
+				045F9AA421C3A8F0001C9F07 /* UIBarButtonItem+Extension.m in Sources */,
+				045F9AA021C3A8F0001C9F07 /* QCTREGViewModel.m in Sources */,
+				045F9AAC21C3A8F0001C9F07 /* QCTContainTableViewCell.m in Sources */,
+				045F9AA221C3A8F0001C9F07 /* HWNavigationController.m in Sources */,
+				045F9AA521C3A8F0001C9F07 /* QCTUploadStorePhotosViewController.m in Sources */,
 				04AFF90721C3A4F0008B39F0 /* AppDelegate.m in Sources */,
+				045F9AAA21C3A8F0001C9F07 /* QCTSettlementCardInformationView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,11 +679,14 @@
 		};
 		04AFF92F21C3A4F2008B39F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 273BBB3A0E7E7D1C9F2FD235 /* Pods-KNSegmentedViewControllers.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 249PMS4KB9;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/KNSegmentedViewControllers/KNSegmentedViewControllers.pch";
 				INFOPLIST_FILE = KNSegmentedViewControllers/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -450,11 +699,14 @@
 		};
 		04AFF93021C3A4F2008B39F0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2649B96BAAA5EB68BF237A72 /* Pods-KNSegmentedViewControllers.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 249PMS4KB9;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/KNSegmentedViewControllers/KNSegmentedViewControllers.pch";
 				INFOPLIST_FILE = KNSegmentedViewControllers/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

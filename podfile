@@ -1,0 +1,4 @@
+target 'KNSegmentedViewControllers' do
+  pod 'Masonry'   
+ pod 'ReactiveCocoa', '~> 2.5'
+end

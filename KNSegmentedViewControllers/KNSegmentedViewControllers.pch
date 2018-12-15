@@ -1,0 +1,20 @@
+//
+//  KNSegmentedViewControllers.pch
+//  KNSegmentedViewControllers
+//
+//  Created by mac on 2018/12/14.
+//  Copyright © 2018 kunnan. All rights reserved.
+//
+
+#ifndef KNSegmentedViewControllers_pch
+#define KNSegmentedViewControllers_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "Masonry.h"
+#import "UIConsts.h"
+
+
+#endif /* KNSegmentedViewControllers_pch */

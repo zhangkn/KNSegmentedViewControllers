@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "WLContainerViewController.h"
 @interface ViewController ()
 
 @end
@@ -19,5 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+    [super touchesBegan:touches withEvent:event];
+    [WLContainerViewController presentViewControllerWithParentvc:self];
 
+}
 @end
